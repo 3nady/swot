@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Belarusian State Technological University
+=======
+Belarusian State Technological University
+>>>>>>> pr/1

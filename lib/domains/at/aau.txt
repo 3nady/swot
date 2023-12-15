@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Universität Klagenfurt
+=======
+Alpen-Adria-Universität Klagenfurt
+>>>>>>> pr/1

@@ -1,1 +1,6 @@
 Kemerovo State University
+<<<<<<< HEAD
+=======
+Kemerovo State University
+Kemerovo State University
+>>>>>>> pr/1

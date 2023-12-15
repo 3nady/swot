@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Berufsakademie Rhein-Main
+=======
+Berufsakademie Rhein Main
+>>>>>>> pr/1

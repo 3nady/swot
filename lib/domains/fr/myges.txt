@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 École Supérieure de Génie Informatique
+=======
+Réseau GES
+>>>>>>> pr/1

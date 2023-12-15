@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Gymnázium Žďár nad Sázavou
+=======
+Gymnazium Zdar nad Sazavou
+>>>>>>> pr/1

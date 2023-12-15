@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 National Institute of Technology Karnataka
+=======
+National Institute of Technology Karnataka
+>>>>>>> pr/1

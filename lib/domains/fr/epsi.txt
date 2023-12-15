@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 École Privée des Sciences Informatiques
+=======
+Ecole Privée des Sciences Informatiques
+>>>>>>> pr/1

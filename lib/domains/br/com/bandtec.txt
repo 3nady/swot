@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Faculdade de Tecnologia Bandeirantes
+=======
+Faculdade de Tecnologia Bandeirantes - BandTec
+>>>>>>> pr/1

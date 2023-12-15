@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Pwsz Technical Higher School
+=======
+The Jacob of Paradyz University of Applied Sciences in Gorzow Wielkopolski
+>>>>>>> pr/1

@@ -3,3 +3,8 @@ Gemfile.lock
 *.gem
 .bundle
 .idea
+<<<<<<< HEAD
+=======
+.gradle
+build
+>>>>>>> pr/1

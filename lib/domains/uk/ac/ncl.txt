@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Newcastle University
+=======
+Newcastle University, Medicine Malaysia 
+University of Newcastle-upon-Tyne
+"Newcastle Univeristy" 
+>>>>>>> pr/1

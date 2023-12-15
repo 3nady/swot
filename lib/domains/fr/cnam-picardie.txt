@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Conservatoire national des arts et métiers de Picardie
+=======
+Conservatoire National des Arts et Métiers - Picardie
+>>>>>>> pr/1

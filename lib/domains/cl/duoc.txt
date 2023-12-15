@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Instituto Profesional DuocUC
+=======
+Fundación Instituto Profesional Duoc UC
+>>>>>>> pr/1

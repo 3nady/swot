@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Cégep Saint-Jérôme
+=======
+Cégep de Saint-Jérôme
+>>>>>>> pr/1

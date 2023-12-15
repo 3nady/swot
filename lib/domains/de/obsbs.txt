@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Otto-Bennemann-Schule, Berufsbildende Schulen Wirtschaft und Verwaltung
+=======
+Otto-Bennemann-Schule, Berufsbildende Schulen Wirtschaft und Verwaltung
+>>>>>>> pr/1

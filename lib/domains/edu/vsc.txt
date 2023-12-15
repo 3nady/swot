@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Vermont State College
+=======
+Vermont State Colleges
+>>>>>>> pr/1

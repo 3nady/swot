@@ -1,1 +1,6 @@
 Institute Of Public Enterprise
+<<<<<<< HEAD
+=======
+Website: http://www.ipeindia.org
+student emails at @ipeindia.org for example 1301007@ipeindia.org
+>>>>>>> pr/1

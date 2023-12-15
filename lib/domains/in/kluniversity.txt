@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 K L University
+=======
+KL University
+>>>>>>> pr/1

@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Universidad Tecnologica de Chile
+=======
+Universidad Tecnologica de Chile - INACAP
+>>>>>>> pr/1

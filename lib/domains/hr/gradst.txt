@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 University of Split Faculty of Civil Engineering, Architecture and Geodesy
+=======
+University of Split Faculty of Civil Engineering, Architecture and Geodesy
+>>>>>>> pr/1

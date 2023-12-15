@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 University of Amsterdam (Master in System and Network Engineering)
+=======
+University of Amsterdam 
+- Security and Network engineering
+>>>>>>> pr/1

@@ -1,1 +1,6 @@
 Institut Informatique Sud Aveyron
+<<<<<<< HEAD
+=======
+Website: http://www.2isa.com/
+student emails at @2isa.org for example sergey.epifanov@2isa.org
+>>>>>>> pr/1

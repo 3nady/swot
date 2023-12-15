@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 THD - Technische Hochschule Deggendorf
+=======
+Technische Hochschule Deggendorf
+>>>>>>> pr/1

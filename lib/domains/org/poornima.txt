@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Poornima College Of Engineering
+=======
+poornima
+>>>>>>> pr/1

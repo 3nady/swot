@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Aberystwyth University
+=======
+Prifysgol Aberystwyth University
+>>>>>>> pr/1

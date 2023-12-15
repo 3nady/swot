@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Savonia UAS
+=======
+Savonia University of Applied Sciences
+>>>>>>> pr/1

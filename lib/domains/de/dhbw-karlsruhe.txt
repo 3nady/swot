@@ -1,1 +1,5 @@
-Duale Hochschule Baden-Württemberg, Karlsruhe
+<<<<<<< HEAD
+Duale Hochschule Baden-Württemberg, Karlsruhe
+=======
+Duale Hochschule Baden-Württemberg Karlsruhe
+>>>>>>> pr/1

@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Academy of Interactive Entertainment
+=======
+The Academy of Interactive Entertainment
+>>>>>>> pr/1

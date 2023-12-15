@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Chung Shan Medical University
+=======
+CHUNG SHAN MEDICAL UNIVERSITY
+>>>>>>> pr/1

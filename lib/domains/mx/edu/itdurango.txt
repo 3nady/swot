@@ -1,1 +1,5 @@
 Instituto Tecnologico de Durango
+<<<<<<< HEAD
+=======
+Durango Institute of Technology 
+>>>>>>> pr/1

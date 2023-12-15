@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Kauno technologijos universitetas
+=======
+Kaunas University of Technology
+>>>>>>> pr/1

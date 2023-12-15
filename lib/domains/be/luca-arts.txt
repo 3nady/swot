@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 LUCA School of Arts
+=======
+Luca School of Arts
+>>>>>>> pr/1

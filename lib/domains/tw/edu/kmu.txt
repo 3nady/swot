@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Kaohsiung Medical University
+=======
+高雄醫學大學
+Kaohsiung Medical University
+>>>>>>> pr/1

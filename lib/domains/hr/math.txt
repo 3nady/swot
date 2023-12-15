@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 University of Zagreb, Faculty of science - Department of Mathematics
+=======
+University of Zagreb Faculty of Mathematics and Natural Sciences - Department of Mathematics
+>>>>>>> pr/1

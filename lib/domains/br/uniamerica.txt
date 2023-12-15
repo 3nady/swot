@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Uniamérica Centro Universitario
+=======
+Uniamérica Centro Universitário
+>>>>>>> pr/1

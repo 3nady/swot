@@ -1,1 +1,5 @@
 Höhere Fachschule für Technik Mittelland
+<<<<<<< HEAD
+=======
+école supérieure technique Mittelland
+>>>>>>> pr/1

@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Centro Universitário Univates
+=======
+Universidade do Vale do Taquari
+>>>>>>> pr/1

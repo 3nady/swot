@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hochschule für angewandte Wissenschaft und Kunst - Hildesheim/Holzminden/Göttingen
+=======
+HAWK Hochschule für angewandte Wissenschaft und Kunst Hildesheim Holzminden Göttingen
+>>>>>>> pr/1

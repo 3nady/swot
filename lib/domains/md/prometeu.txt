@@ -1,0 +1,6 @@
+<<<<<<< HEAD:lib/domains/do/edu/unica.txt
+Universidad Interamericana
+=======
+LICEUL DE CREATIVITATE ȘI INVENTICA  "PROMETEU–PRIM"
+Prometeu-Prim Lyceum (High School)
+>>>>>>> pr/1:lib/domains/md/prometeu.txt

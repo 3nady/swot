@@ -1,1 +1,5 @@
 Universität der Bundeswehr München
+<<<<<<< HEAD
+=======
+www.unibw.de
+>>>>>>> pr/1

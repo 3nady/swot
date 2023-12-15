@@ -1,1 +1,10 @@
 Institut Catholique d'Arts et Métiers
+<<<<<<< HEAD
+=======
+ICAM Lille
+ICAM Nantes
+ICAM Toulouse
+ICAM Paris-Sénart
+ICAM Bretagne
+ICAM Vendée
+>>>>>>> pr/1

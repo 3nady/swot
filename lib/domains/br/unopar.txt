@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Universidade Norte do Paraná
+=======
+Universidade Norte do Paraná
+>>>>>>> pr/1

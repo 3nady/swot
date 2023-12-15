@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Berufsfachschule BBB (BerufsBildungBaden)
+=======
+Berufsfachschule BBB
+>>>>>>> pr/1

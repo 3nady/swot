@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 National American University
+=======
+National American University
+>>>>>>> pr/1

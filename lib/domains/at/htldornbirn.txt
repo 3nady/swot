@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 HTL Dornbirn / HTBLUVA Dornbirn
+=======
+HTL Dornbirn
+>>>>>>> pr/1

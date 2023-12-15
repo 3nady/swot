@@ -1,1 +1,6 @@
 Rostov State University of Civil Engineering
+<<<<<<< HEAD
+=======
+Ростовский Государственный Строительный Университет
+
+>>>>>>> pr/1

@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hochschule Worms
+=======
+Hochschule Worms University of Applied Sciences
+>>>>>>> pr/1

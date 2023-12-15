@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Universidade Tecnológica Federal do Paraná
+=======
+Universidade Tecnológica Federal do Paraná
+>>>>>>> pr/1

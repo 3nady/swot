@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Polytechnic of Zagreb
+=======
+Polytechnic of Zagreb
+>>>>>>> pr/1

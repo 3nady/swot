@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 École des Métiers du Valais
+=======
+Ecole des Métiers du Valais
+>>>>>>> pr/1

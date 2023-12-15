@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Daffodil Institue of IT
+=======
+Daffodil Institute of Information & Technology
+>>>>>>> pr/1

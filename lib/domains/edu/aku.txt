@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Aga Khan University
+=======
+Aga Khan University
+>>>>>>> pr/1

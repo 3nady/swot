@@ -1,1 +1,5 @@
 Khmelnitsky National University
+<<<<<<< HEAD
+=======
+Хмельницький Національний Університет
+>>>>>>> pr/1

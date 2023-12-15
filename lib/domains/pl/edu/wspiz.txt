@@ -1,1 +1,5 @@
 Leon Kozminski Academy of Entrepreneurship and Mangement
+<<<<<<< HEAD
+=======
+Leon Kozminski Academy of Entrepreneurship and Mangement in Warsaw
+>>>>>>> pr/1

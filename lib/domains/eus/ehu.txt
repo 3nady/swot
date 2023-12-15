@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Universidad del País Vasco
+=======
+University of the Basque Country
+>>>>>>> pr/1

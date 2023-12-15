@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Taipei Medical University
+=======
+臺北醫學大學
+TAIPEI MEDICAL UNIVERSITY
+>>>>>>> pr/1

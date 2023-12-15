@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 G18 Berufsschule Hamburg / G18 Technical College
+=======
+Staatliche Gewerbeschule G18 - Technical College G18
+>>>>>>> pr/1

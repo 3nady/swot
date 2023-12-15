@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Montmorency College
+=======
+Collège Montmorency
+>>>>>>> pr/1

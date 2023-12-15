@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Cégep Heritage College
+=======
+Cegep Heritage
+>>>>>>> pr/1

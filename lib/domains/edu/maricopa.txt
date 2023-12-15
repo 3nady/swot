@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Maricopa Community College
+=======
+Maricopa Community Colleges
+>>>>>>> pr/1

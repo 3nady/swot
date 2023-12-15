@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 University of Split Faculty of Natural Sciences and Mathematics
+=======
+University of Split Faculty of Natural Sciences and Mathematics
+>>>>>>> pr/1

@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Jamia Milia Islamia University
+=======
+Jamia Millia Islamia, New Delhi
+>>>>>>> pr/1

@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Nova College
+=======
+Nova College
+>>>>>>> pr/1

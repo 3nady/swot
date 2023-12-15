@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Université Constantine 2 Abdelhamid Mehri
+=======
+Université Abdelhamid Mehri Constantine 2
+>>>>>>> pr/1

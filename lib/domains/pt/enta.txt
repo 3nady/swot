@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Escola de Novas Tecnologias dos Acores
+=======
+ENTA - Escola de Novas Tecnologias dos Açores
+>>>>>>> pr/1

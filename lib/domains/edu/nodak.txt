@@ -1,1 +1,11 @@
+<<<<<<< HEAD
 North Dakota State University
+=======
+University of North Dakota
+Dickinson State University
+Mayville State University
+Minot State University
+North Dakota State University
+Tri-College University
+Valley City State University
+>>>>>>> pr/1

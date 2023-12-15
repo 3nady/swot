@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Haute École Libre Mosane
+=======
+Haute Ecole Libre Mosane
+>>>>>>> pr/1

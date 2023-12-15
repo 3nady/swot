@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Dnepropetrovsk Lyceum of information technology
+=======
+Dnipro Lyceum of Information Technologies at DNU (LIT)
+Дніпровський ліцей інформаційних технологій при ДНУ (ЛІТ)
+>>>>>>> pr/1

@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Southern Taiwan University of Science and Technology
+=======
+南台科技大學
+Southern Taiwan University of Science and Technology
+>>>>>>> pr/1

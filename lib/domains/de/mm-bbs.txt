@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Multi-Media Berufsbildende Schulen - Hannover
+=======
+multi media BBS Hannover
+>>>>>>> pr/1

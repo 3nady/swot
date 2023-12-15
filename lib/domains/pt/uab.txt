@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Universidade Aberta de Lisboa
+=======
+Universidade Aberta Lisboa
+>>>>>>> pr/1

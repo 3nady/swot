@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 HTL Krems
+=======
+HTL Krems
+>>>>>>> pr/1

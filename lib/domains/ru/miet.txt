@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 National Research University of Electronic Technology (MIET)
+=======
+National Research University of Electronic Technology
+>>>>>>> pr/1

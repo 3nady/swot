@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 EPHEC - École Pratique des Hautes Études Commerciales
+=======
+Economics and Technics School
+>>>>>>> pr/1

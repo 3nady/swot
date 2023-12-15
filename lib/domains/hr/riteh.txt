@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Faculty of Engineering, University of Rijeka
+=======
+University of Rijeka Faculty of Engineering
+>>>>>>> pr/1

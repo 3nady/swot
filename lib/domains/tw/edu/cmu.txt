@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 China Medical University
+=======
+中國醫藥大學
+China Medical University
+>>>>>>> pr/1

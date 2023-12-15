@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hochschule Neu-Ulm
+=======
+Hochschule Neu Ulm University of applied sciences
+>>>>>>> pr/1

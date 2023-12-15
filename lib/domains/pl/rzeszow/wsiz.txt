@@ -1,1 +1,5 @@
 University of Information Technology and Management in Rzeszow
+<<<<<<< HEAD
+=======
+Wyższa Szkoła Informatyki i Zarządzania w Rzeszowie
+>>>>>>> pr/1

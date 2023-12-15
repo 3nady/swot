@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Instituto Superior de Engenharia de Coimbra
+=======
+ISEC - Instituto Superior de Engenharia de Coimbra
+>>>>>>> pr/1

@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 EDV-Schulen des Landkreises Deggendorf
+=======
+EDV-Schulen des Landkreises Deggendrof
+>>>>>>> pr/1

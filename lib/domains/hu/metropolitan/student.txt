@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Budapesti Metropolitan Egyetem
+=======
+Budapesti Metropolitan Egyetem
+>>>>>>> pr/1

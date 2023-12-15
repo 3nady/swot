@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Telecom SudParis
+=======
+Télécom SudParis
+>>>>>>> pr/1

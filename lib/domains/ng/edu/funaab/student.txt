@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Federal University of Agriculture, Abeokuta
+=======
+Federal University of Agriculture, Abeokuta.
+>>>>>>> pr/1

@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 SOŠ Manažerská Akademie
+=======
+﻿SOŠ Manažerská Akademie
+>>>>>>> pr/1

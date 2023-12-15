@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Federation University Australia
+=======
+Federation University Australia
+>>>>>>> pr/1

@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Carmel RC College
+=======
+Carmel RC College
+>>>>>>> pr/1

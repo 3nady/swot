@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Université des metiers
+=======
+School actual website is http://www.pigierci.com/, Mails are hosted by microsoft but via http://univmetiers.onmicrosoft.com/.
+>>>>>>> pr/1

@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 École des Sciences Commerciales d'Angers
+=======
+Essca
+ESSCA School of Management
+>>>>>>> pr/1

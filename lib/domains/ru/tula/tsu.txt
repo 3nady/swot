@@ -1,1 +1,6 @@
 Tula State University
+<<<<<<< HEAD
+=======
+Tula State University
+Tula State University
+>>>>>>> pr/1

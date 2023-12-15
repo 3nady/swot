@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Duale Hochschule Baden-Württemberg Karlsruhe
+=======
+DHBW-Karlsruhe
+>>>>>>> pr/1

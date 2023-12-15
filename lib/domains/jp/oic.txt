@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Osaka Information and Computer Science College
+=======
+Osaka Information and Computer Science College
+>>>>>>> pr/1

@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 IN'TECH INFO École supérieure d'informatique
+=======
+Ecole Supérieure d'Ingénierie Informatique
+>>>>>>> pr/1

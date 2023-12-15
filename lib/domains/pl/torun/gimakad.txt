@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Nicolaus Copernicus University of Torun
+=======
+Gimnazjum i Liceum Akademickie w Toruniu
+>>>>>>> pr/1

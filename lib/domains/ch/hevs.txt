@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 HES-SO Valais, University of applied sciences of western Switzerland
+=======
+University of Applied Sciences and Arts Western Switzerland // Valais
+>>>>>>> pr/1

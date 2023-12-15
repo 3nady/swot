@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Université des Antilles et de la Guyane
+=======
+Université des Antilles
+>>>>>>> pr/1

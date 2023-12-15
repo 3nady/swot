@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Universidade de Sorocaba - UNISO
+=======
+Universidade de Sorocaba - Uniso
+>>>>>>> pr/1

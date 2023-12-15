@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Friesland College
+=======
+Friesland College Regionaal Opleidingencentrum
+>>>>>>> pr/1

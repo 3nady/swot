@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Thompson Rivers University
+=======
+Thomson Rivers University
+>>>>>>> pr/1

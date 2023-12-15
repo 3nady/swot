@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 People Friendship University of Russia
+=======
+ People Friendship University of Russia
+>>>>>>> pr/1

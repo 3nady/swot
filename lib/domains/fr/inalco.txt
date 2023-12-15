@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Institut national des langues et civilisations orientales
+=======
+Institut national des langues et civilisations orientales
+National Institute for Oriental Languages and Civilizations
+>>>>>>> pr/1

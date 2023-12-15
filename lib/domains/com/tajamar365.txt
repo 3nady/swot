@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Fomación Tajamar
+=======
+Formacion Tajamar
+>>>>>>> pr/1

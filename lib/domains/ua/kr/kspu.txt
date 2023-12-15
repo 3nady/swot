@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Kirovohrad State Pedagogical University
+=======
+Kirovograd State Pedagogical University
+>>>>>>> pr/1

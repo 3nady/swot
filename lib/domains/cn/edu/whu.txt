@@ -1,1 +1,6 @@
 Wuhan University
+<<<<<<< HEAD
+=======
+Computer School of Wuhan University
+Wuhan University School of Medicine
+>>>>>>> pr/1

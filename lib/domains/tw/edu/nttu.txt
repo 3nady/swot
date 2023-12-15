@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 National Taitung University
+=======
+國立臺東大學
+National Taitung University
+>>>>>>> pr/1

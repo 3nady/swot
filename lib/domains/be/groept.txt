@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Groep T
+=======
+Groep T Hogeschool Leuven
+>>>>>>> pr/1

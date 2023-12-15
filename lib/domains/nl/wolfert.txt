@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Wolfert Lyceum
+=======
+Wolfert van Borselen Scholengroep
+>>>>>>> pr/1

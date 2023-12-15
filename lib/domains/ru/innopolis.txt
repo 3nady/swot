@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Innopolis University
+=======
+Innopolis University
+>>>>>>> pr/1

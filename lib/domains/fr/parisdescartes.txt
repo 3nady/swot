@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Paris Descartes
+=======
+University Paris Descartes 
+>>>>>>> pr/1

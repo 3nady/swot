@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 EUC Syd
+=======
+EUC Syd - Teknisk Gymnasium Sønderjylland
+>>>>>>> pr/1

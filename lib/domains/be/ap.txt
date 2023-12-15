@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Artesis Plantijn Hogeschool Antwerpen
+=======
+AP Hogeschool Antwerpen
+>>>>>>> pr/1

@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 École de Guerre Économique
+=======
+Ecole de guerre economique
+Economic Warfare School
+>>>>>>> pr/1

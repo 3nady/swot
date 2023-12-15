@@ -1,1 +1,5 @@
 Hochschule für angewandte Wissenschaften Kempten
+<<<<<<< HEAD
+=======
+University of Applied Sciences Kempten
+>>>>>>> pr/1

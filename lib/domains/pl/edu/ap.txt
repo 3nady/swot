@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Polonia University in Czêstochowa
+=======
+Polonia University in Częstochowa
+>>>>>>> pr/1

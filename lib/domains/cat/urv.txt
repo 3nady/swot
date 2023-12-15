@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Rovira i Virgili University
+=======
+Universitat Rovira i Virgili
+>>>>>>> pr/1

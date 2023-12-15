@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Астраханский инженерно-строительный институт
+=======
+Astrakhan State University of Architecture and Civil Engineering
+>>>>>>> pr/1

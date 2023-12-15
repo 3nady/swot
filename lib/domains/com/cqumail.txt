@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Central Queensland University (CQU)
+=======
+Central Queensland University (CQU) 
+>>>>>>> pr/1

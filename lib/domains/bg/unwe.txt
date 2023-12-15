@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 University of National and World Economy
+=======
+University of National and World Economy
+>>>>>>> pr/1

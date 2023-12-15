@@ -1,1 +1,6 @@
 University of Houston
+<<<<<<< HEAD
+=======
+University of Houston, Downtown
+University of Houston, Victoria
+>>>>>>> pr/1

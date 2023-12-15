@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Herzen State Pedagogical University of Russia
+=======
+Российский государственный педагогический университет им. А. И. Герцена
+The Herzen State Pedagogical University of Russia
+>>>>>>> pr/1

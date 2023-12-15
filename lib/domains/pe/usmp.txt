@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Universidad San Martin de Porres
+=======
+Universidad de San Martín de Porres
+>>>>>>> pr/1

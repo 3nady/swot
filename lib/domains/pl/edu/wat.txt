@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Military University of Technology
+=======
+Military University of Technology in Warsaw
+>>>>>>> pr/1

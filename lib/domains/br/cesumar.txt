@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Unicesumar - Centro Universitário Cesumar
+=======
+Centro Universitário de Maringá
+>>>>>>> pr/1

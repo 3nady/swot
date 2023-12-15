@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Faculdade de Informática e Administração Paulista
+=======
+Faculdade de Informatica e Administração Paulista
+>>>>>>> pr/1

@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Technische Hochschule Nuernberg
+=======
+Technische Hochschule Nürnberg Georg Simon Ohm
+>>>>>>> pr/1
