@@ -8,19 +8,47 @@ on:
 jobs:
   release:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3  # Updated to the latest version
+
+      - name: Setup Node.js  # This might be optional if Node.js isn't used in your project
+        uses: actions/setup-node@v2
+        with:
+          node-version: '16'
 
       - name: Compile and run Kotlin
         run: |
           kotlinc src/main/kotlin/swot -include-runtime -d swot.jar
           java -jar swot.jar
 
+      - name: Configure Git
+        run: |
+          git config --global user.name 'GitHub Actions'
+          git config --global user.email 'actions@github.com'
+
+      - name: Fetch all tags
+        run: git fetch --tags
+
+      - name: Check if the 'latest' tag exists
+        id: check-latest-tag
+        run: |
+          if git rev-parse 'latest^{tag}' >/dev/null 2>&1; then
+            echo 'LATEST_TAG_EXISTS=true' >> $GITHUB_ENV
+          else
+            echo 'LATEST_TAG_EXISTS=false' >> $GITHUB_ENV
+
+      - name: Delete the existing 'latest' tag if exists
+        if: env.LATEST_TAG_EXISTS == 'true'
+        run: |
+          git tag -d latest
+          git push origin :latest
+
       - name: Move the 'latest' tag to the head commit
         run: |
           git tag latest
-          git push origin latest -f
+          git push origin latest -f --verbose
 
       - name: Release swot.txt
         uses: softprops/action-gh-release@v1
